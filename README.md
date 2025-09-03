@@ -13,22 +13,11 @@ Projeto de estudo para implementar uma **calculadora básica** em Node.js, com t
 - Node.js
 - Jest (testes automatizados)
 
-## 📂 Estrutura
-Calculadora/
-│── src/
-│   └── calculadora.js     # Funções da calculadora
-│── tests/
-│   └── calculadora.test.js # Testes automatizados
-│── package.json
-│── README.md
-│── .gitignore
-
 
 ## ▶️ Como executar
 1. Instalar dependências:
    ```bash
    npm install
-
 
 2. Rodar os testes:
 
